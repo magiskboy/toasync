@@ -8,5 +8,6 @@ setup(
     version='0.0.1',
     author='Nguyen Khac Thanh',
     packages=['toasync'],
-    long_description=readme
+    long_description=readme,
+    long_description_content_type='text/markdown',
 )
