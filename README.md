@@ -1,3 +1,6 @@
+[![GithubCI](https://github.com/magiskboy/toasync/workflows/ci/badge.svg)](https://github.com/magiskboy/toasync/actions?query=workflow%3ACI)
+
+
 # toasync
 
 Convert sync function to async function and start at same time
